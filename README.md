@@ -42,7 +42,7 @@ An interactive dashboard analyzing loan applicant data — credit score, age, an
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 
 - **Power BI** — data modeling, interactive slicers, DAX aggregate measures (Average Age, Max/Min Credit Score)
 - **Chart selection strategy**: used a quadrant-style scatter to directly contrast credit score against approval outcome, making outliers (like a high-score rejection) immediately visible rather than buried in a table
